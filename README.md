@@ -59,7 +59,8 @@ To setup the `BLR` the reference Voltages of ... have to be adjusted.
 | Type       | Link               | Description              |
 |:----------:|:------------------:|:-------------------------|
 | PB137 | [pdf](https://www.st.com/resource/en/datasheet/pb137.pdf) | Positive voltage regulator for battery charging datasheet |
-
+| TL431 | [pdf](https://www.ti.com/lit/ds/symlink/tl431.pdf) | Precision voltage reference |
+| LM358 | [pdf](https://www.ti.com/lit/ds/symlink/lm358.pdf) | Dual operational amplifier |
 
 ---
 
