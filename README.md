@@ -2,7 +2,7 @@
 
 # `BLR` - Lead Battery Charger (Bleiakkuladeregler)
 
-The `BLR` project is based on a pcb with a positive voltage regulator for battery charging (`PB137`).It can be used to charge [lead-batteries](#additional-information) with a voltage of 12V and observe the status of a battery during use.
+The `BLR` project is based on a pcb with a positive voltage regulator for battery charging (`PB137`). It can be used to charge [lead-batteries](#additional-information) with a voltage of 12V and observe the status of a battery during use.
 
 | Experience | Level |
 |:------------|:-----:|
@@ -52,7 +52,7 @@ The housing has a tolerance of `0.2mm` on each side of the case. So the pcb shou
 
 # Setup
 
-To setup the `BLR` the reference Voltages of `TP1`, `TP2`, `TP3` and `TP4` needs to be adjusted.
+To setup the `BLR` the reference voltages of `TP1`, `TP2`, `TP3` and `TP4` needs to be adjusted.
 
 | Point | Voltage | U<sub>In</sub> |
 |:-----:|:-------:|:--------------:|
@@ -60,7 +60,7 @@ To setup the `BLR` the reference Voltages of `TP1`, `TP2`, `TP3` and `TP4` needs
 | `TP2` | ~2V5    | -              |
 | `TP3` | ~2V5    | ~13V           |
 
-> TP4 need to be adjusted manually with a Ampermeter. If the current is > `100 mA` the charging LED (`J8`) should be on. This behaviour can be adjusted through `RV3`.
+> TP4 needs to be adjusted manually with an Ampermeter. If the current is > `100 mA` the charging LED (`J8`) should be on. This behaviour can be adjusted through `RV3`.
 
 # Additional Information
 
