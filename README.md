@@ -1,6 +1,6 @@
 [![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/blr) ![Build](https://github.com/0x007e/blr/actions/workflows/build.yml/badge.svg?branch=main) [![License CC By-NC-SA](https://img.shields.io/badge/Hardware-CC--BY--NC--SA--4.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-# `BLR` - EXtendable Controller (Erweiterbarer Mikrocontroller)
+# `BLR` - Lead Battery Charger (Bleiakkuladeregler)
 
 The `BLR` project is based on a pcb with a positive voltage regulator for battery charging (`PB137`).It can be used to charge lead-batteries and or observe the status of a battery.
 
