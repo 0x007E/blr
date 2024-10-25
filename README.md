@@ -7,7 +7,7 @@ The `BLR` project is based on a pcb with a positive voltage regulator for batter
 | Experience | Level |
 |:------------|:-----:|
 | Soldering   | ![?%](https://progress-bar.xyz/60?progress_color=00ff00&suffix=%20Medium&width=120) |
-| Software    | ![?%](https://progress-bar.xyz/60?progress_color=0000ff&suffix=%20Medium&width=120) |
+| Mechanical  | ![?%](https://progress-bar.xyz/60?progress_color=0000ff&suffix=%20Medium&width=120) |
 
 # Downloads
 
